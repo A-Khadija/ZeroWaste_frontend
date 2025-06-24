@@ -1,10 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 
-// Import your icons as URLs (no 'ReactComponent as' or '?react')
 import BellIconUrl from '../../assets/icons/notification.svg';
 import ChevronDownIconUrl from '../../assets/icons/chevron-down.svg';
-
-// Your flag and avatar imports (these are already correct for PNGs)
 import UkFlag from '../../assets/images/usa.png';
 import FrFlag from '../../assets/images/frensh.png';
 import ArFlag from '../../assets/images/arabic.png';

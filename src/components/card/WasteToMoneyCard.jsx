@@ -1,6 +1,6 @@
 
 import React from 'react';
-import backgroundImage from '../../assets/images/bg-card.png'; // Make sure to place the image here
+import backgroundImage from '../../assets/images/bg-card.png'; 
 
 const WasteToMoneyCard = ({ onGetStarted }) => {
   return (
